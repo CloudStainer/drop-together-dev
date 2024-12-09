@@ -1,5 +1,5 @@
 /*! For license information please see main.068ee7d0.js.LICENSE.txt */
-(self.webpackChunkpooltogether = self.webpackChunkpooltogether || []).push([
+(self.webpackChunkDropTogether = self.webpackChunkDropTogether || []).push([
   [179],
   {
     1204: (e, t, n) => {
@@ -78,7 +78,7 @@
         ],
         "1b9f1d97": [
           () => n.e(7386).then(n.bind(n, 1320)),
-          "@site/docs/what-is-pooltogether.md",
+          "@site/docs/what-is-DropTogether.md",
           1320,
         ],
         "1be78505": [
@@ -20660,14 +20660,14 @@
       "use strict";
       n.r(t), n.d(t, { default: () => r });
       const r = {
-        title: "PoolTogether",
+        title: "DropTogether",
         tagline: "Developer Documentation and Guides",
-        url: "https://dev.pooltogether.com",
+        url: "https://dev.DropTogether.com",
         baseUrl: "/",
         onBrokenLinks: "warn",
         onBrokenMarkdownLinks: "ignore",
         favicon: "img/favicon.png",
-        organizationName: "PoolTogether",
+        organizationName: "DropTogether",
         projectName: "dev-docs",
         plugins: [
           [
@@ -20720,11 +20720,11 @@
             ],
           },
           navbar: {
-            title: "PoolTogether",
-            logo: { alt: "PoolTogether", src: "img/favicon.png" },
+            title: "DropTogether",
+            logo: { alt: "DropTogether", src: "img/favicon.png" },
             items: [
               {
-                href: "https://pooltogether.com/interfaces",
+                href: "https://DropTogether.com/interfaces",
                 label: "User Interfaces",
                 position: "right",
                 className: "persistent",
@@ -20735,7 +20735,7 @@
                 dropdownItemsBefore: [],
                 dropdownItemsAfter: [
                   {
-                    to: "https://pooltogether.com/discord",
+                    to: "https://DropTogether.com/discord",
                     label: "Help us translate",
                   },
                 ],
@@ -20750,7 +20750,7 @@
                 items: [
                   {
                     label: "Bug Bounty",
-                    href: "https://immunefi.com/bug-bounty/pooltogether/",
+                    href: "https://immunefi.com/bug-bounty/DropTogether/",
                   },
                 ],
               },
@@ -20758,22 +20758,22 @@
                 title: "Github",
                 items: [
                   {
-                    label: "PoolTogether Code",
-                    href: "https://github.com/orgs/GenerationSoftware/repositories?q=pooltogether&type=all&language=&sort=stargazers",
+                    label: "DropTogether Code",
+                    href: "https://github.com/orgs/GenerationSoftware/repositories?q=DropTogether&type=all&language=&sort=stargazers",
                   },
                 ],
               },
               {
                 title: "Ecosystem",
                 items: [
-                  { label: "Home", href: "https://pooltogether.com/" },
+                  { label: "Home", href: "https://DropTogether.com/" },
                   {
                     label: "Apps",
-                    href: "https://pooltogether.com/interfaces",
+                    href: "https://DropTogether.com/interfaces",
                   },
                   {
                     label: "Brand Assets",
-                    href: "https://github.com/pooltogether/pooltogether--brand-assets/blob/141936c859553a2a42ac96ed807551b85a4d56d9/pooltogether-brand-assets-v1.2.0.zip?raw=true",
+                    href: "https://github.com/DropTogether/DropTogether--brand-assets/blob/141936c859553a2a42ac96ed807551b85a4d56d9/DropTogether-brand-assets-v1.2.0.zip?raw=true",
                   },
                 ],
               },
@@ -20782,15 +20782,15 @@
                 items: [
                   {
                     label: "Governance",
-                    href: "https://gov.pooltogether.com/",
+                    href: "https://gov.DropTogether.com/",
                   },
                   {
                     label: "Discord",
-                    href: "https://pooltogether.com/discord",
+                    href: "https://DropTogether.com/discord",
                   },
                   {
                     label: "Twitter",
-                    href: "https://twitter.com/PoolTogether_",
+                    href: "https://twitter.com/DropTogether_",
                   },
                 ],
               },
@@ -20825,7 +20825,7 @@
               docs: {
                 path: "docs",
                 routeBasePath: "protocol/",
-                editUrl: "https://github.com/pooltogether/v4-docs/tree/main/",
+                editUrl: "https://github.com/DropTogether/v4-docs/tree/main/",
                 lastVersion: "current",
                 includeCurrentVersion: !0,
                 remarkPlugins: [null],

@@ -1,5 +1,5 @@
 "use strict";
-(self.webpackChunkpooltogether = self.webpackChunkpooltogether || []).push([
+(self.webpackChunkDropTogether = self.webpackChunkDropTogether || []).push([
   [713],
   {
     713: (e, t, n) => {

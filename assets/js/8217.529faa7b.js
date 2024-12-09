@@ -1,4 +1,4 @@
-(self.webpackChunkpooltogether = self.webpackChunkpooltogether || []).push([
+(self.webpackChunkDropTogether = self.webpackChunkDropTogether || []).push([
   [8217],
   {
     7533: (e, o, t) => {

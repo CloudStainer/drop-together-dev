@@ -1,5 +1,5 @@
 "use strict";
-(self.webpackChunkpooltogether = self.webpackChunkpooltogether || []).push([
+(self.webpackChunkDropTogether = self.webpackChunkDropTogether || []).push([
   [4195],
   {
     7188: (e, t, l) => {
@@ -67,7 +67,7 @@
             href: "#",
             icon: d.tWY,
             to: "./protocol/guides/customize/",
-            text: "PoolTogether is 100% Permissionless. Learn how to create a unique prize experience.",
+            text: "DropTogether is 100% Permissionless. Learn how to create a unique prize experience.",
           },
           {
             title: "Run a Bot",
@@ -79,13 +79,13 @@
         ],
         h = [
           {
-            title: "PoolTogether Code",
-            href: "https://github.com/orgs/GenerationSoftware/repositories?q=pooltogether+solidity&type=all&language=&sort=stargazers",
+            title: "DropTogether Code",
+            href: "https://github.com/orgs/GenerationSoftware/repositories?q=DropTogether+solidity&type=all&language=&sort=stargazers",
             icon: d.dNJ,
           },
           {
             title: "Cabana Apps Code",
-            href: "https://github.com/GenerationSoftware/pooltogether-client-monorepo",
+            href: "https://github.com/GenerationSoftware/DropTogether-client-monorepo",
             icon: d.dNJ,
           },
         ],
@@ -102,12 +102,12 @@
           },
           {
             title: "Guides",
-            text: "Learn about what you can do with PoolTogether",
+            text: "Learn about what you can do with DropTogether",
             to: "./protocol/guides/",
           },
           {
             title: "Smart Contracts Reference",
-            text: "Learn about the architecture of the PoolTogether protocol smart contracts.",
+            text: "Learn about the architecture of the DropTogether protocol smart contracts.",
             to: "./protocol/reference/",
           },
           {
@@ -281,9 +281,9 @@
         return r.createElement(
           a.Z,
           {
-            title: "PoolTogether Docs",
+            title: "DropTogether Docs",
             description:
-              "Technical Documentation For The PoolTogether Protocol",
+              "Technical Documentation For The DropTogether Protocol",
           },
           r.createElement(
             u,
@@ -306,7 +306,7 @@
                   "h1",
                   { style: { fontWeight: "600" } },
                   " ",
-                  "Build on PoolTogether"
+                  "Build on DropTogether"
                 )
               ),
               r.createElement(
@@ -423,7 +423,7 @@
                 r.createElement(
                   "p",
                   null,
-                  "PoolTogether is comprised of an ecosystem of open source smart contracts and user interfaces."
+                  "DropTogether is comprised of an ecosystem of open source smart contracts and user interfaces."
                 ),
                 h.map((e) =>
                   r.createElement(
@@ -529,7 +529,7 @@
                 o.Z,
                 {
                   style: { textDecoration: "none" },
-                  href: "https://pooltogether.com/discord",
+                  href: "https://DropTogether.com/discord",
                 },
                 r.createElement(
                   w,
@@ -553,7 +553,7 @@
                 o.Z,
                 {
                   style: { textDecoration: "none" },
-                  href: "https://gov.pooltogether.com/",
+                  href: "https://gov.DropTogether.com/",
                 },
                 r.createElement(
                   w,
@@ -573,7 +573,7 @@
                 o.Z,
                 {
                   style: { textDecoration: "none" },
-                  href: "https://github.com/orgs/GenerationSoftware/repositories?q=pooltogether&type=all&language=&sort=stargazers",
+                  href: "https://github.com/orgs/GenerationSoftware/repositories?q=DropTogether&type=all&language=&sort=stargazers",
                 },
                 r.createElement(
                   w,
@@ -639,7 +639,7 @@
                     r.createElement(
                       "p",
                       null,
-                      "View PoolTogether repositories."
+                      "View DropTogether repositories."
                     )
                   )
                 )

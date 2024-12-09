@@ -262,7 +262,7 @@
     })()),
     (r.o = (e, f) => Object.prototype.hasOwnProperty.call(e, f)),
     (c = {}),
-    (b = "pooltogether:"),
+    (b = "DropTogether:"),
     (r.l = (e, f, a, d) => {
       if (c[e]) c[e].push(f);
       else {
@@ -458,8 +458,8 @@
             (b = d[n]), r.o(e, b) && e[b] && e[b][0](), (e[b] = 0);
           return r.O(i);
         },
-        a = (self.webpackChunkpooltogether =
-          self.webpackChunkpooltogether || []);
+        a = (self.webpackChunkDropTogether =
+          self.webpackChunkDropTogether || []);
       a.forEach(f.bind(null, 0)), (a.push = f.bind(null, a.push.bind(a)));
     })();
 })();

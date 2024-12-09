@@ -1,5 +1,5 @@
 /*! For license information please see 561.325b614c.js.LICENSE.txt */
-(self.webpackChunkpooltogether = self.webpackChunkpooltogether || []).push([
+(self.webpackChunkDropTogether = self.webpackChunkDropTogether || []).push([
   [561],
   {
     6322: (e, t, n) => {
